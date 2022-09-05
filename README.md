@@ -26,7 +26,7 @@ Nessa minha jornada tive oportunidade de conhecer diversos softwares e ferrament
  🚀 Em construção...  🚧
   
 
-![Approved certificate](https://user-images.githubusercontent.com/71329433/188517918-73b88d0c-d054-4571-82a0-70d125ac99af.png)
+
 
 
 
