@@ -2,7 +2,7 @@
 
 ## Hello World ☕
 
-Iuri, ou mais conhecido como iuricode, é um programador instrutor da empresa Digital House. Produz conteúdo desde 2020 sobre desenvolvimento front-end. Extremamente apaixonado por café e cultura japonesa.
+Evandro
 
 #### Caso queira acompanhar meus conteúdos:
 
@@ -18,4 +18,9 @@ Iuri, ou mais conhecido como iuricode, é um programador instrutor da empresa Di
   <a href="https://discord.com/channels/@me/975903056187240489" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.com/channels/@me/975903056187240489"/>
   </a>
+  
+ <align="center"> 
+	🚧  React Select 🚀 Em construção...  🚧
+ </>
+
 </p>
