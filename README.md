@@ -2,7 +2,10 @@
 
 ## Hello World ☕
 
-Evandro
+Olá rede, me chamo Evandro Duarte. Estudando de Cyber Security na universidade Estácio de Sá, estou no 5º semestre. Atualmente trabalho em um provedor de internet, atuando como supervisor técnico, realizando análise comportamental e de desempenho dos colaboradores, criando e gerenciando metas de processos e projetos. Também sou responsável pelo treinamento técnico do departamento de suporte, venho trabalhando junto ao Time DigitalNet há mais de 3 três anos.
+
+Nessa minha jornada tive oportunidade de conhecer diversos softwares e ferramentas de rede, dentre essas soluções posso citar algumas, UNM 2000 (OLT FiberHome), U2000 (OLT HUAWEI) e NetNumem (OLT-ZTE). 
+
 
 #### Caso queira acompanhar meus conteúdos:
 
