@@ -26,7 +26,8 @@ Nessa minha jornada tive oportunidade de conhecer diversos softwares e ferrament
  🚀 Em construção...  🚧
   
 
-![Brazil flag](https://user-images.githubusercontent.com/71329433/188517649-7203d9e5-66f6-4bbc-9a91-3c076fb3c23d.gif)
+![Approved certificate](https://user-images.githubusercontent.com/71329433/188517918-73b88d0c-d054-4571-82a0-70d125ac99af.png)
+
 
 
 </p>
