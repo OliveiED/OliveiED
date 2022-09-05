@@ -19,8 +19,8 @@ Evandro
     <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.com/channels/@me/975903056187240489"/>
   </a>
   
- <align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
- </>
+
+ 🚀 Em construção...  🚧
+
 
 </p>
