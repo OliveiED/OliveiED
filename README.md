@@ -84,11 +84,6 @@ Nessa minha jornada tive oportunidade de conhecer diversos softwares e ferrament
 <br></div>
 
 
- 🚀 Em construção...  🚧
-  
-
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
 
 </p>
