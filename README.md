@@ -23,13 +23,17 @@ Nessa minha jornada tive oportunidade de conhecer diversos softwares e ferrament
   </a>
   
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 🚀 Languages and Tools:</h3>
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a> 
 <a href="https://grafana.com" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
 </a>
+  <a href="https://www.zabbix.com" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg" alt="zabbix" width="50" height="50"/> 
+</a>
+  
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
@@ -40,6 +44,24 @@ Nessa minha jornada tive oportunidade de conhecer diversos softwares e ferrament
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<h4 align="left"> 💼 CISCO Credly:</h4>
+<p align="left"> <a href="https://www.credly.com/" target="_blank" rel="noreferrer"> 
+<img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="docker" width="100" height="100"/>
+</a> 
+
+<a href="https://www.credly.com/" target="_blank" rel="noreferrer"> 
+<img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="docker" width="100" height="100"/>
+</a>   
+<a href="https://www.credly.com/" target="_blank" rel="noreferrer"> 
+<img src="https://images.credly.com/size/340x340/images/0a00ff19-2af2-452c-b855-a00f24e577dd/image.png" alt="docker" width="100" height="100"/>
+</a> 
+<a href="https://www.credly.com/" target="_blank" rel="noreferrer"> 
+<img src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="docker" width="100" height="100"/>
+</a> 
+    
+
+  
+  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
