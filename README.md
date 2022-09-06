@@ -45,7 +45,8 @@ Nessa minha jornada tive oportunidade de conhecer diversos softwares e ferrament
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h4 align="left"> 💼 CISCO Credly:</h4>
-<p align="left"> <a href="https://www.credly.com/" target="_blank" rel="noreferrer"> 
+
+<p align="left"> <a href="https://www.credly.com/earner/earned/badge/dadb12c2-398f-46f0-a068-2722598deda5" target="_blank" rel="noreferrer"> 
 <img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="docker" width="100" height="100"/>
 </a> 
 
