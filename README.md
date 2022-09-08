@@ -83,12 +83,13 @@ Nessa minha jornada tive oportunidade de conhecer diversos softwares e ferrament
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{OliveiED}/count.svg" /></p> 
 <br></div>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-</p>
-
 <div align="center">
   <a href="https://OliveiED.github.io/OliveiED/">
   <img  src="https://github.com/OliveiED/OliveiED/blob/main/grid-snake.svg"
        alt="snake" /></a>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+</p>
+
+
