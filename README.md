@@ -7,7 +7,7 @@ Olá 👋 rede, me chamo Evandro Duarte. Estudando de Cyber Security na universi
 Nessa minha jornada tive oportunidade de conhecer diversos softwares e ferramentas de rede, dentre essas soluções posso citar algumas, UNM 2000 (OLT FiberHome), U2000 (OLT HUAWEI) e NetNumem (OLT-ZTE). 
 
 
-#### Caso queira acompanhar meus conteúdos:
+#### Caso queira acompanhar meus conteúdos 🤝🏻:
 
 <p align="left">
   <a href="https://www.instagram.com/evandro.dua.oliveira/" alt="Instagram">
@@ -28,8 +28,8 @@ Nessa minha jornada tive oportunidade de conhecer diversos softwares e ferrament
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
-  
-  
+  <n>
+  </n>
   
 <h4 align="left"> 💻 Open Source Software: </h4>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
@@ -38,7 +38,8 @@ Nessa minha jornada tive oportunidade de conhecer diversos softwares e ferrament
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 
   <br />
- 
+   <n>
+  </n>
 </p>
 
 <h5 align="left"> 💼 CISCO Credly:</h5>
@@ -57,7 +58,8 @@ Nessa minha jornada tive oportunidade de conhecer diversos softwares e ferrament
 <img src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="docker" width="100" height="100"/>
 </a> 
     
-
+  <n>
+  </n>
   
   
 
@@ -82,6 +84,11 @@ Nessa minha jornada tive oportunidade de conhecer diversos softwares e ferrament
 <br></div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 </p>
+
+<div align="center">
+  <a href="https://OliveiED.github.io/OliveiED/">
+  <img  src="https://github.com/OliveiED/OliveiED/blob/main/grid-snake.svg"
+       alt="snake" /></a>
