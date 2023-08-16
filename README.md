@@ -2,9 +2,13 @@
 
 ## Hello World ☕
 
-Olá 👋 rede, me chamo Evandro Duarte. Estudando de Cyber Security na universidade Estácio de Sá, estou no 5º semestre. Atualmente trabalho em um provedor de internet, atuando como supervisor técnico, realizando análise comportamental e de desempenho dos colaboradores, criando e gerenciando metas de processos e projetos. Também sou responsável pelo treinamento técnico do departamento de suporte, venho trabalhando junto ao Time DigitalNet há mais de 3 três anos.
+Greetings esteemed network community, I am Evandro Duarte. With an unwavering ardor for technology, I hold an esteemed degree in Cyber Defense conferred by Estácio de Sá University. Presently, I am an integral member of an internet service provider, occupying the role of Network Administrator. Within this capacity, I am deeply engaged in multifaceted endeavors spanning Traffic Analysis, Routing, and the meticulous assessment of Link Performance. Concurrently, I lead the charge in pioneering novel undertakings within the intricate framework of MPLS technology.
 
-Nessa minha jornada tive oportunidade de conhecer diversos softwares e ferramentas de rede, dentre essas soluções posso citar algumas, UNM 2000 (OLT FiberHome), U2000 (OLT HUAWEI) e NetNumem (OLT-ZTE). 
+My scope of responsibilities encompasses a diverse gamut of tasks, ranging from the judicious allocation of IP addresses and intricate subnet calculations, to the formulation and execution of comprehensive project implementation strategies. A pivotal facet of my role pertains to the meticulous documentation of our expansive WAN / MAN network. This undertaking is augmented by the adept application of OpenSource tools, most notably Netbox, Zabbix, and Grafana, which synergistically enhance the efficacy of my day-to-day operations.
+
+In the realm of hardware proficiency, my command extends robustly across a spectrum of devices including esteemed brands such as HUAWEI, CISCO, DATACOM, and MIKROTIK.
+
+As I journey through the realm of networking, I have been graced with the opportunity to acquaint myself with a plethora of sophisticated software solutions and tools. Among these noteworthy contributions, I can prominently cite my mastery of platforms like UNM 2000 (OLT FiberHome), U2000 (OLT HUAWEI), and NetNumem (OLT-ZTE). Complementing these achievements, I have also proficiently navigated platforms such as Integrator, Geogrid, and Iclass, each contributing to my ever-evolving expertise in this intricate field.
 
 
 #### Caso queira acompanhar meus conteúdos 🤝🏻:
