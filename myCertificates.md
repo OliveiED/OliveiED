@@ -1,3 +1,10 @@
+![nat](https://github.com/OliveiED/OliveiED/assets/71329433/be0f7b5e-0417-4d28-8526-8b5b61ffeece)
+![Uploading STP.png…]()
+![Uploading Redes Completo.png…]()
+![Uploading EIGRP Protocols.png…]()
+![Uploading EIGRP.png…]()
+![Uploading Ethernet P2.png…]()
+![Uploading Ethernet P1.png…]()
 
 # 📃Repository for storing and sharing my certificates.
 
@@ -23,25 +30,15 @@
 
 ![Segurança redes Netacademy](https://github.com/OliveiED/OliveiED/assets/71329433/a790107a-3532-4080-a18a-ba84f4f0791d)
 
+### Mikrotik <a id="Mikrotik"></a>
 
-### Digital Innovation One <a id="digital-innovation-one"></a>
+![mtcna](https://github.com/OliveiED/OliveiED/assets/71329433/f95d99bb-fcd0-4669-8715-860f29a39cee)
 
-### GIT: <a id="git-dio"></a>
+![mtcre](https://github.com/OliveiED/OliveiED/assets/71329433/70ddd7c2-d4c2-477e-a2af-413cf55464d4)
 
-![](images/certificado-git-e-controle-de-versoes-dio.jpg)
 
-### GitHub: <a id="github-dio"></a>
+### DLtec Do Brazil <a id="DLtec Do Brazil"></a>
 
-![](images/certificado-github-e-trabalhar-em-equipe-dio.jpg)
+![Uploading rot ip e rip.png…]()
+![Uploading RIP.png…]()
 
----
-
-### freeCodeCamp <a id="freeCodeCamp"></a>
-
-### Responsive Web Design: <a id="responsive-web-design-freecodecamp"></a>
-
-![](images/certificate-responsive-web-design-freecodecamp.png)
-
-### JavaScript Algorithms and Data Structures: <a id="javascript-algorithms-and-data-structures"></a>
-
-![](images/certificate-javascript-algorithms-and-data-structures-freecodecamp.png)
