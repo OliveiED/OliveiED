@@ -4,6 +4,8 @@
 
 ### Cisco <a id="cisco"></a>
 
+---
+
 ![170h Cibersegurança learn a thon](https://github.com/OliveiED/OliveiED/assets/71329433/794a6896-1282-49b8-9464-6829050e9009)
 
 
@@ -26,6 +28,7 @@
 
 ### Mikrotik <a id="Mikrotik"></a>
 
+---
 
 ![mtcna](https://github.com/OliveiED/OliveiED/assets/71329433/f95d99bb-fcd0-4669-8715-860f29a39cee)
 
@@ -63,6 +66,8 @@
 
 
 ### DATACOM <a id="DATACOM"></a>
+
+---
 
 ![DATACOM Mpls](https://github.com/OliveiED/OliveiED/assets/71329433/7a2725e3-8328-4a7c-966e-174866dd835a)
 
