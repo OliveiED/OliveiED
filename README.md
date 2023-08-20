@@ -67,7 +67,7 @@ In the realm of hardware proficiency, my command extends robustly across a spect
   
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=Slice"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Evandro+Duarte+de+Oliveira;I'm+30+years+old;I+from+Brasil,+MS;I'm+Enthusiastic+Cyber+Security+and+Networking;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
