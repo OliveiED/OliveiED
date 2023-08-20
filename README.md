@@ -12,7 +12,6 @@ In the realm of hardware proficiency, my command extends robustly across a spect
 
 
 #### Should you wish to follow my content 🤝🏻:
-:
 
 <p align="left">
   <a href="https://www.instagram.com/evandro.dua.oliveira/" alt="Instagram">
