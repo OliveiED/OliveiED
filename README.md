@@ -8,7 +8,7 @@ My scope of responsibilities encompasses a diverse gamut of tasks, ranging from 
 
 In the realm of hardware proficiency, my command extends robustly across a spectrum of devices including esteemed brands such as HUAWEI, CISCO, DATACOM, and MIKROTIK.
 
-As I journey through the realm of networking, I have been graced with the opportunity to acquaint myself with a plethora of sophisticated software solutions and tools. Among these noteworthy contributions, I can prominently cite my mastery of platforms like UNM 2000 (OLT FiberHome), U2000 (OLT HUAWEI), and NetNumem (OLT-ZTE). Complementing these achievements, I have also proficiently navigated platforms such as Integrator, Geogrid, and Iclass, each contributing to my ever-evolving expertise in this intricate field.
+<blockquote>As I journey through the realm of networking, I have been graced with the opportunity to acquaint myself with a plethora of sophisticated software solutions and tools. Among these noteworthy contributions, I can prominently cite my mastery of platforms like UNM 2000 (OLT FiberHome), U2000 (OLT HUAWEI), and NetNumem (OLT-ZTE). Complementing these achievements, I have also proficiently navigated platforms such as Integrator, Geogrid, and Iclass, each contributing to my ever-evolving expertise in this intricate field.</blockquote>
 
 
 #### Should you wish to follow my content 🤝🏻:
