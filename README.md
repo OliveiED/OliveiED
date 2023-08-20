@@ -10,6 +10,21 @@ In the realm of hardware proficiency, my command extends robustly across a spect
 
 <blockquote>As I journey through the realm of networking, I have been graced with the opportunity to acquaint myself with a plethora of sophisticated software solutions and tools. Among these noteworthy contributions, I can prominently cite my mastery of platforms like UNM 2000 (OLT FiberHome), U2000 (OLT HUAWEI), and NetNumem (OLT-ZTE). Complementing these achievements, I have also proficiently navigated platforms such as Integrator, Geogrid, and Iclass, each contributing to my ever-evolving expertise in this intricate field.</blockquote>
 
+---
+
+- 📚 **I'm currently learning:** <abbr title="Cascading Style Sheets">CSS</abbr> Datacom | Huawei | Cisco <abbr title="Syntactically Awesome Style Sheets">SASS</abbr><abbr title="User Interface">UI</abbr> 
+
+- 🎯 **Next topics I plan to study:** Fortinet
+
+- 📜 **I'm looking for knowledge in:** [<abbr title="Comunidade Cisco | Hackone">MDN</abbr> Web Docs](https://hackone.com.br/) and [DLtec Do Brazil](https://www.dltec.com.br/)
+
+- 👨‍💻 **All my projects are available at:** [My repositories](https://github.com/OliveiED?tab=repositories)
+
+- 📨 **Send me a message so we can talk and if there's anything I can help with I'll be happy: Email:** evandro.dua.oliveira@gmail.com / **Linkedin:** [Evandro Duarte](https://www.linkedin.com/in/evandro-duarte-oliveira/)
+
+- 📃 **See my certificates:** [My certificates](https://github.com/OliveiED/OliveiED/blob/main/myCertificates.md)
+
+---
 
 #### Should you wish to follow my content 🤝🏻:
 
