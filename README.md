@@ -25,7 +25,7 @@ In the realm of hardware proficiency, my command extends robustly across a spect
 - **Linkedin:** [Evandro Duarte](https://www.linkedin.com/in/evandro-duarte-oliveira/)
 
 - 📃 **See my certificates:** [My certificates](https://github.com/OliveiED/OliveiED/blob/main/myCertificates.md)
-
+- 💬 **Ping me about:** Network, Routing and Switching
 ---
 
 #### Should you wish to follow my content 🤝🏻:
