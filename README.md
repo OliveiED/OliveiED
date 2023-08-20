@@ -20,7 +20,7 @@ In the realm of hardware proficiency, my command extends robustly across a spect
 
 - 👨‍💻 **All my projects are available at:** [My repositories](https://github.com/OliveiED?tab=repositories)
 
-- 📨Send me a message so we can talk and if there's anything I can help with I'll be happy:
+- 📨 **Send me a message so we can talk and if there's anything I can help with I'll be happy:**
 - **Email:**  [Evandro Duarte](mailto:evandro.dua.oliveira@gmail.com/)
 - **Linkedin:** [Evandro Duarte](https://www.linkedin.com/in/evandro-duarte-oliveira/)
 
