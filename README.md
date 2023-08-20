@@ -12,11 +12,11 @@ In the realm of hardware proficiency, my command extends robustly across a spect
 
 ---
 
-- 📚 **I'm currently learning:** <abbr title="Cascading Style Sheets">CSS</abbr> Datacom | Huawei | Cisco <abbr title="Syntactically Awesome Style Sheets"></abbr><abbr title="User Interface"></abbr> 
+- 📚 **I'm currently learning:** <abbr title="Cascading Style Sheets"></abbr> Datacom | Huawei | Cisco <abbr title="Syntactically Awesome Style Sheets"></abbr><abbr title="User Interface"></abbr> 
 
 - 🎯 **Next topics I plan to study:** Fortinet
 
-- 📜 **I'm looking for knowledge in:** [<abbr title="Comunidade Cisco | Hackone">Comunidade Cisco | Hackone</abbr> Web Docs](https://hackone.com.br/) and [DLtec Do Brazil](https://www.dltec.com.br/)
+- 📜 **I'm looking for knowledge in:** [<abbr title="Comunidade Cisco | Hackone">Comunidade Cisco | Hackone</abbr>](https://hackone.com.br/) and [DLtec Do Brazil](https://www.dltec.com.br/)
 
 - 👨‍💻 **All my projects are available at:** [My repositories](https://github.com/OliveiED?tab=repositories)
 
