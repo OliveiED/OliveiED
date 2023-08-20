@@ -92,7 +92,7 @@ In the realm of hardware proficiency, my command extends robustly across a spect
   <img  src="https://github.com/OliveiED/OliveiED/blob/main/grid-snake.svg"
        alt="snake" /></a>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
 
 </p>
 
