@@ -5,9 +5,8 @@
 
 ### Cisco <a id="cisco"></a>
 
-### Cybersecurity: <a id="cybersecurity-cisco"></a>
+[learn a thon.pdf](https://github.com/OliveiED/OliveiED/files/12389170/learn.a.thon.pdf)
 
-![](images/certificado-introdução-a-cyber-segurança-cisco.jpg)
 
 ---
 
