@@ -5,7 +5,7 @@
 
 ### Cisco <a id="cisco"></a>
 
-[learn a thon.pdf](https://github.com/OliveiED/OliveiED/files/12389170/learn.a.thon.pdf)
+![170h Cibersegurança learn a thon](https://github.com/OliveiED/OliveiED/assets/71329433/794a6896-1282-49b8-9464-6829050e9009)
 
 
 ---
