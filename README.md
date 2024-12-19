@@ -103,7 +103,58 @@ Daily activities also include managing firewall filters, NAT, PAT, maintaining a
 <a href="https://www.credly.com/earner/earned/badge/b7328ae7-64a1-4205-9965-eedc154f3c01" target="_blank" rel="noreferrer"> 
 <img src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="docker" width="100" height="100"/>
 </a> 
-    
+<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
+<img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="docker" width="100" height="100"/>
+</a>   
+<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
+<img src="https://images.credly.com/size/340x340/images/0a00ff19-2af2-452c-b855-a00f24e577dd/image.png" alt="docker" width="100" height="100"/>
+</a> 
+<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
+<img src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="docker" width="100" height="100"/>
+</a> 
+
+<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
+<img src="https://images.credly.com/size/160x160/images/0a00ff19-2af2-452c-b855-a00f24e577dd/image.png" alt="docker" width="100" height="100"/>
+</a> 
+
+<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
+<img src="https://images.credly.com/size/160x160/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="docker" width="100" height="100"/>
+</a> 
+
+<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
+<img src="https://images.credly.com/size/160x160/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" alt="docker" width="100" height="100"/>
+</a> 
+
+<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
+<img src="https://images.credly.com/size/160x160/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" alt="docker" width="100" height="100"/>
+</a> 
+
+<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
+<img src="https://images.credly.com/size/160x160/images/e360c3e0-4031-479b-ad7b-5ce878bc29d7/image.png" alt="docker" width="100" height="100"/>
+</a> 
+
+<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
+<img src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="docker" width="100" height="100"/>
+</a> 
+
+<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
+<img src="https://images.credly.com/size/160x160/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" alt="docker" width="100" height="100"/>
+</a> 
+
+
+<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
+<img src="https://images.credly.com/size/160x160/images/7822016c-371e-45c9-9a99-4f5e28d1d0f0/image.png" alt="docker" width="100" height="100"/>
+</a> 
+
+
+<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
+<img src="https://images.credly.com/size/160x160/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="docker" width="100" height="100"/>
+</a> 
+
+
+<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
+<img src="https://images.credly.com/size/160x160/images/c18de471-c003-4365-98bd-2111fa3905a0/image.png" alt="docker" width="100" height="100"/>
+</a>  
   <n>
   </n>
   
