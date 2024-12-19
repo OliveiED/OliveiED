@@ -66,7 +66,7 @@ In the realm of hardware proficiency, my command extends robustly across a spect
 </p>
 
 <h5 align="left"> 💼 CISCO Credly:</h5>
-- **My Archievements:** [Evandro Duarte](https://www.credly.com/users/evandro-duarte-de-oliveira)
+
 <p align="left"> <a href="https://www.credly.com/earner/earned/badge/dadb12c2-398f-46f0-a068-2722598deda5" target="_blank" rel="noreferrer"> 
 <img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="docker" width="100" height="100"/>
 </a> 
