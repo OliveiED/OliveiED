@@ -27,7 +27,7 @@ In the realm of hardware proficiency, my command extends robustly across a spect
 - **Linktr:** [Evandro Duarte](https://linktr.ee/evandro_duarte/)
 
 - 📃 **See my certificates:** [My certificates](https://www.credly.com/users/evandro-duarte-de-oliveira)
-- 💬 **Ping me about:** Network, Routing and Switching
+- 💬 **Ping me about:** Network, Routing, Switching and Firewall Fortinet
 ---
 
 #### Should you wish to follow my content 🤝🏻:
