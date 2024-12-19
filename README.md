@@ -3,13 +3,28 @@
 
 ## Hello World ☕
 
-Greetings esteemed network community, I am Evandro Duarte. With an unwavering ardor for technology, I hold an esteemed degree in Cyber Defense conferred by Estácio de Sá University. Presently, I am an integral member of an internet service provider, occupying the role of Network Administrator. Within this capacity, I am deeply engaged in multifaceted endeavors spanning Traffic Analysis, Routing, and the meticulous assessment of Link Performance. Concurrently, I lead the charge in pioneering novel undertakings within the intricate framework of MPLS technology.
+Dynamic and results-oriented professional with over 4 years of experience in Network Operations Centers (NOC). Led key initiatives in corporate support, network monitoring, incident management, and advanced configuration of Datacom, Huawei, Cisco, and MikroTik equipment. 
+Experienced in wireless networks, wired networks, and MPLS mesh projects, as well as troubleshooting and problem resolution, with a proactive approach to learning and solving challenges.
 
-My scope of responsibilities encompasses a diverse gamut of tasks, ranging from the judicious allocation of IP addresses and intricate subnet calculations, to the formulation and execution of comprehensive project implementation strategies. A pivotal facet of my role pertains to the meticulous documentation of our expansive WAN / MAN network. This undertaking is augmented by the adept application of OpenSource tools, most notably Netbox, Zabbix, and Grafana, which synergistically enhance the efficacy of my day-to-day operations.
+Currently working with routing protocols OSPF, BGP, and IS-IS. Recognized for resilience in facing challenges, dedication, and persistence in delivering solutions in dynamic environments. 
+Daily activities also include managing firewall filters, NAT, PAT, maintaining and optimizing routing, route summarization, and BGP traffic optimization. Additionally, I have knowledge of Spanning Tree, BPDU Guard, Edge Port (PortFast), Topology Change Notification (TCN), and Root Bridge.
 
-In the realm of hardware proficiency, my command extends robustly across a spectrum of devices including esteemed brands such as HUAWEI, CISCO, DATACOM, and MIKROTIK.
+Expertise in:
 
-<blockquote>As I journey through the realm of networking, I have been graced with the opportunity to acquaint myself with a plethora of sophisticated software solutions and tools. Among these noteworthy contributions, I can prominently cite my mastery of platforms like UNM 2000 (OLT FiberHome), U2000 (OLT HUAWEI), and NetNumem (OLT-ZTE). Complementing these achievements, I have also proficiently navigated platforms such as Integrator, Geogrid, and Iclass, each contributing to my ever-evolving expertise in this intricate field.</blockquote>
+✔️Network Projects: WAN and MAN distribution.
+✔️Client Connectivity: Layer 2 transport and internet transit services.
+✔️Routing Protocols: iBGP RR / eBGP implementation and optimization.
+✔️MPLS: Configuration and maintenance of L2VPN and L3VPN.
+✔️Advanced Routing Configurations: EIGRP, IS-IS, OSPF (special areas: NSSA, STUB, P2P, BROADCAST), filter rules, access lists, prefix lists, and route policies.
+
+Other Skills:
+
+✔️ Continuous Learning and Adaptability
+✔️ Proactive Attitude and Strong Work Ethic
+✔️ Strong Communication and Collaboration Skills
+✔️ Problem-Solving and Critical Thinking Abilities
+
+<blockquote>Let's connect and explore opportunities to collaborate in shaping robust network infrastructures for the future!</blockquote>
 
 ---
 
