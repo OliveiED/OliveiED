@@ -94,15 +94,6 @@ Daily activities also include managing firewall filters, NAT, PAT, maintaining a
 <img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="docker" width="100" height="100"/>
 </a> 
 
-<a href="https://www.credly.com/earner/earned/badge/975efe50-583a-4f9b-bd3b-37a69a29ca9c" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="docker" width="100" height="100"/>
-</a>   
-<a href="https://www.credly.com/earner/earned/badge/4b6898db-4702-4726-b0a8-ef4f7f027f98" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/340x340/images/0a00ff19-2af2-452c-b855-a00f24e577dd/image.png" alt="docker" width="100" height="100"/>
-</a> 
-<a href="https://www.credly.com/earner/earned/badge/b7328ae7-64a1-4205-9965-eedc154f3c01" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="docker" width="100" height="100"/>
-</a> 
 <a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
 <img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="docker" width="100" height="100"/>
 </a>   
@@ -111,10 +102,6 @@ Daily activities also include managing firewall filters, NAT, PAT, maintaining a
 </a> 
 <a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
 <img src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="docker" width="100" height="100"/>
-</a> 
-
-<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/160x160/images/0a00ff19-2af2-452c-b855-a00f24e577dd/image.png" alt="docker" width="100" height="100"/>
 </a> 
 
 <a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
@@ -123,10 +110,6 @@ Daily activities also include managing firewall filters, NAT, PAT, maintaining a
 
 <a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
 <img src="https://images.credly.com/size/160x160/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" alt="docker" width="100" height="100"/>
-</a> 
-
-<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/160x160/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" alt="docker" width="100" height="100"/>
 </a> 
 
 <a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
@@ -154,7 +137,7 @@ Daily activities also include managing firewall filters, NAT, PAT, maintaining a
 
 <a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
 <img src="https://images.credly.com/size/160x160/images/c18de471-c003-4365-98bd-2111fa3905a0/image.png" alt="docker" width="100" height="100"/>
-</a>  
+</a> 
   <n>
   </n>
   
