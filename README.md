@@ -11,7 +11,8 @@ Daily activities also include managing firewall filters, NAT, PAT, maintaining a
 
 Expertise in:
 
-✔️Network Projects: WAN and MAN distribution.
+✔️Network Projects: WAN and MAN distribution. <n>
+  </n>
 ✔️Client Connectivity: Layer 2 transport and internet transit services.
 ✔️Routing Protocols: iBGP RR / eBGP implementation and optimization.
 ✔️MPLS: Configuration and maintenance of L2VPN and L3VPN.
