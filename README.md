@@ -9,21 +9,28 @@ Experienced in wireless networks, wired networks, and MPLS mesh projects, as wel
 Currently working with routing protocols OSPF, BGP, and IS-IS. Recognized for resilience in facing challenges, dedication, and persistence in delivering solutions in dynamic environments. 
 Daily activities also include managing firewall filters, NAT, PAT, maintaining and optimizing routing, route summarization, and BGP traffic optimization. Additionally, I have knowledge of Spanning Tree, BPDU Guard, Edge Port (PortFast), Topology Change Notification (TCN), and Root Bridge.
 
-Expertise in:
+## Expertise in:
 
-✔️Network Projects: WAN and MAN distribution. <n>
-  </n>
-✔️Client Connectivity: Layer 2 transport and internet transit services.
-✔️Routing Protocols: iBGP RR / eBGP implementation and optimization.
-✔️MPLS: Configuration and maintenance of L2VPN and L3VPN.
-✔️Advanced Routing Configurations: EIGRP, IS-IS, OSPF (special areas: NSSA, STUB, P2P, BROADCAST), filter rules, access lists, prefix lists, and route policies.
+✔️ Network Projects: WAN and MAN distribution.
 
-Other Skills:
+✔️ Client Connectivity: Layer 2 transport and internet transit services.
+
+✔️ Routing Protocols: iBGP RR / eBGP implementation and optimization.
+
+✔️ MPLS: Configuration and maintenance of L2VPN and L3VPN.
+
+✔️ Advanced Routing Configurations: EIGRP, IS-IS, OSPF (special areas: NSSA, STUB, P2P, BROADCAST), filter rules, access lists, prefix lists, and route policies.
+
+## Other Skills:
 
 ✔️ Continuous Learning and Adaptability
+
 ✔️ Proactive Attitude and Strong Work Ethic
+
 ✔️ Strong Communication and Collaboration Skills
+
 ✔️ Problem-Solving and Critical Thinking Abilities
+
 
 <blockquote>Let's connect and explore opportunities to collaborate in shaping robust network infrastructures for the future!</blockquote>
 
