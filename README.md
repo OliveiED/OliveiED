@@ -12,22 +12,19 @@ Strong expertise in BGP, OSPF, and IS-IS, with a focus on high availability, per
 Additional experience includes firewall configuration (NAT, PAT), route summarization, and Layer 2 protocols (STP, BPDU Guard, PortFast, TCN).
 
 Technical Expertise:
-• WAN/MAN network design and distribution in ISP environments  
-• Layer 2 transport and internet transit services (client connectivity)  
-• BGP (iBGP Route Reflector / eBGP) implementation and optimization  
-• MPLS (L2VPN, L3VPN) configuration, operation, and maintenance  
-• Advanced routing: OSPF (NSSA, Stub, P2P, Broadcast), IS-IS, EIGRP  
-• Routing control: prefix-lists, route policies, access-lists, and filtering  
+• Design and operation of ISP WAN/MAN backbone networks  
+• Layer 2 transport and internet transit services  
+• BGP (iBGP Route Reflector / eBGP) deployment, optimization, and traffic engineering  
+• MPLS (L2VPN, L3VPN) implementation and lifecycle management  
+• Advanced routing protocols: OSPF (NSSA, Stub, P2P, Broadcast), IS-IS, EIGRP  
+• Routing control and policy management: prefix-lists, route-maps, access-lists  
 
 Core Strengths:
-• Strong problem-solving and troubleshooting in production environments  
-• Effective communication and collaboration with technical teams  
-• Adaptability and continuous learning mindset in dynamic environments  
+• Troubleshooting complex network issues in high-availability environments  
+• Collaboration with NOC and engineering teams for incident resolution  
+• Continuous learning and adaptability in fast-paced ISP environments  
 
-s
-
-
-<blockquote>📍 Open to relocation in Spain and EU opportunitie </blockquote>
+📍 Open to relocation in :contentReference[oaicite:0]{index=0} and EU opportunities
 
 ---
 
