@@ -39,8 +39,16 @@ Strong expertise in BGP, OSPF, and IS-IS, with a focus on high availability, per
 - 🤖 Network Automation Scripts (Bash / Python / Ansible)  
 - 🌐 MPLS / BGP Lab (Backbone simulation)  
 
-👉 *(https://github.com/OliveiED/Docker)*
+### 📡 Network Monitoring Stack (Zabbix + Grafana + DNS)
 
+Production-like monitoring and DNS infrastructure using Docker Compose.
+
+- Zabbix 6.4 + Grafana dashboards  
+- Pi-hole for DNS filtering  
+- Unbound for recursive DNS (DNSSEC)  
+- Containerized services with Docker  
+
+👉 [View Repository](https://github.com/OliveiED/Docker)
 ---
 
 ## 📫 Contact
