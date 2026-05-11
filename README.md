@@ -3,11 +3,13 @@
 
 ## Hello World ☕
 
-Dynamic and results-oriented professional with over 4 years of experience in Network Operations Centers (NOC). Led key initiatives in corporate support, network monitoring, incident management, and advanced configuration of Datacom, Huawei, Cisco, and MikroTik equipment. 
-Experienced in wireless networks, wired networks, and MPLS mesh projects, as well as troubleshooting and problem resolution, with a proactive approach to learning and solving challenges.
+Network & Security Engineer with 4+ years of experience in ISP and NOC environments, specializing in MPLS backbone networks (L2/L3VPN), BGP, and network monitoring (Zabbix, Grafana).
 
-Currently working with routing protocols OSPF, BGP, and IS-IS. Recognized for resilience in facing challenges, dedication, and persistence in delivering solutions in dynamic environments. 
-Daily activities also include managing firewall filters, NAT, PAT, maintaining and optimizing routing, route summarization, and BGP traffic optimization. Additionally, I have knowledge of Spanning Tree, BPDU Guard, Edge Port (PortFast), Topology Change Notification (TCN), and Root Bridge.
+Proven experience designing and scaling network infrastructures, optimizing routing performance, and managing multi-vendor environments (Huawei, MikroTik, Cisco, Datacom, Fortinet).
+
+Hands-on expertise in routing protocols (BGP, OSPF, IS-IS), traffic engineering, and high availability architectures. Strong background in network troubleshooting, incident management, and backbone operations.
+
+Additional experience includes firewall management (NAT, PAT), route optimization and summarization, as well as Layer 2 technologies (STP, BPDU Guard, PortFast, TCN).
 
 ## Expertise in:
 
