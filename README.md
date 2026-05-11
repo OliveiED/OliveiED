@@ -1,189 +1,54 @@
+<img src="ilus-code.svg" width="300px" align="right" alt="logo">
 
-<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
+# 👋 Hi, I'm Evandro Duarte
 
-## Hello World ☕
+### Network & Security Engineer | ISP Backbone | MPLS | BGP | SD-WAN
 
+📍 Brazil | Open to relocation in Spain 🇪🇸 and EU opportunities  
+
+---
+
+## 🚀 About Me
 ISP Network & Security Engineer with 4+ years of experience in NOC and backbone environments, specializing in MPLS (L2/L3VPN), BGP, and network monitoring (Zabbix, Grafana).
 
 Experienced in designing and scaling ISP backbone infrastructures, optimizing routing convergence and traffic engineering, and operating multi-vendor networks (Huawei, MikroTik, Cisco, Datacom, Fortinet).
 
-Strong expertise in BGP, OSPF, and IS-IS, with a focus on high availability, performance, and network stability. Proven ability to troubleshoot complex network issues and manage critical incidents in production environments.
+Strong expertise in BGP, OSPF, and IS-IS, with a focus on high availability, performance, and network stability.
 
-Additional experience includes firewall configuration (NAT, PAT), route summarization, and Layer 2 protocols (STP, BPDU Guard, PortFast, TCN).
+---
 
-### Technical Expertise
-- Design and operation of ISP WAN/MAN backbone networks  
+## 🛠️ Technical Expertise
+- ISP WAN/MAN backbone design and operations  
 - Layer 2 transport and internet transit services  
-- BGP (iBGP Route Reflector / eBGP) deployment, optimization, and traffic engineering  
-- MPLS (L2VPN, L3VPN) implementation and lifecycle management  
-- Advanced routing protocols: OSPF (NSSA, Stub, P2P, Broadcast), IS-IS, EIGRP  
-- Routing control and policy management: prefix-lists, route-maps, access-lists  
+- BGP (iBGP RR / eBGP) deployment and optimization  
+- MPLS (L2VPN, L3VPN) implementation and management  
+- OSPF (NSSA, Stub, P2P, Broadcast), IS-IS, EIGRP  
+- Routing policies: prefix-lists, route-maps, access-lists  
 
-### Core Strengths
+---
+
+## 💡 Core Strengths
 - Troubleshooting complex network issues in high-availability environments  
-- Collaboration with NOC and engineering teams for incident resolution  
-- Continuous learning and adaptability in fast-paced ISP environments  
-
-📍 Open to relocation in Spain and EU opportunities
+- Incident response and collaboration with NOC/engineering teams  
+- Continuous learning and adaptability in ISP environments  
 
 ---
 
-- 📚 **I'm currently learning:** <abbr title="Cascading Style Sheets"></abbr> Datacom | Huawei | Cisco <abbr title="Syntactically Awesome Style Sheets"></abbr><abbr title="User Interface"></abbr> 
+## 📂 Featured Projects
+- 📡 Network Monitoring Stack (Zabbix + Grafana + Docker)  
+- 🤖 Network Automation Scripts (Bash / Python / Ansible)  
+- 🌐 MPLS / BGP Lab (Backbone simulation)  
 
-- 🎯 **Next topics I plan to study:** Fortinet
+👉 *(Add your repository links here)*
 
-- 📜 **I'm looking for knowledge in:** [<abbr title="Comunidade Cisco | Hackone">Comunidade Cisco | Hackone</abbr>](https://hackone.com.br/) and [DLtec Do Brazil](https://www.dltec.com.br/)
-
-- 👨‍💻 **All my projects are available at:** [My repositories](https://github.com/OliveiED?tab=repositories)
-
-- 📨 **Send me a message so we can talk and if there's anything I can help with I'll be happy:**
-- **Email:**  [Evandro Duarte](mailto:evandro.dua.oliveira@gmail.com/)
-- **Linkedin:** [Evandro Duarte](https://www.linkedin.com/in/evandro-duarte-oliveira/)
-- **Linktr:** [Evandro Duarte](https://linktr.ee/evandro_duarte/)
-
-- 📃 **See my certificates:** [My certificates](https://www.credly.com/users/evandro-duarte-de-oliveira)
-- 💬 **Ping me about:** Network, Routing, Switching and Firewall Fortinet
 ---
 
-#### Should you wish to follow my content 🤝🏻:
+## 📫 Contact
+- 💼 LinkedIn: https://www.linkedin.com/in/evandro-duarte-oliveira/  
+- 📧 Email: evandro.dua.oliveira@gmail.com  
+- 📜 Certifications: https://www.credly.com/users/evandro-duarte-de-oliveira  
 
-<p align="left">
-  <a href="https://www.instagram.com/evandro.dua.oliveira/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/evandro.dua.oliveira/"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/evandro-duarte-oliveira/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/evandro-duarte-oliveira"/>
-  </a>
-  
-  <a href="https://discord.com/channels/@me/975903056187240489" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.com/channels/@me/975903056187240489"/>
-  </a>
-  
-<h3 align="left">  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> Language and Tools:</h3>
+---
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
-  <n>
-  </n>
-  
-<h4 align="left"> 💻 Open Source Software: </h4>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-
-  <br />
-   <n>
-  </n>
-</p>
-
-<h5 align="left"> 💼 CISCO Credly:</h5>
-
-<p align="left"> <a href="https://www.credly.com/earner/earned/badge/dadb12c2-398f-46f0-a068-2722598deda5" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="docker" width="100" height="100"/>
-</a> 
-
-<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="docker" width="100" height="100"/>
-</a>   
-
-<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/340x340/images/0a00ff19-2af2-452c-b855-a00f24e577dd/image.png" alt="docker" width="100" height="100"/>
-</a> 
-
-<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="docker" width="100" height="100"/>
-</a> 
-
-<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/160x160/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="docker" width="100" height="100"/>
-</a> 
-
-<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/160x160/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" alt="docker" width="100" height="100"/>
-</a> 
-
-<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/160x160/images/e360c3e0-4031-479b-ad7b-5ce878bc29d7/image.png" alt="docker" width="100" height="100"/>
-</a> 
-
-<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="docker" width="100" height="100"/>
-</a> 
-
-<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/160x160/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" alt="docker" width="100" height="100"/>
-</a> 
-
-
-<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/160x160/images/7822016c-371e-45c9-9a99-4f5e28d1d0f0/image.png" alt="docker" width="100" height="100"/>
-</a> 
-
-
-<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/160x160/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="docker" width="100" height="100"/>
-</a> 
-
-
-<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/160x160/images/c18de471-c003-4365-98bd-2111fa3905a0/image.png" alt="docker" width="100" height="100"/>
-</a> 
-
-<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/160x160/images/4b6db74c-f2da-4958-ad21-27288f2dd7f3/image.png" alt="docker" width="100" height="100"/>
-</a> 
-
-<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/160x160/images/143b93f6-f54e-47c0-9b73-144fe81bc956/image.png" alt="docker" width="100" height="100"/>
-</a> 
-
-<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/160x160/images/8333c9e7-b303-4ceb-bd93-842c3dc73a45/image.png" alt="docker" width="100" height="100"/>
-</a> 
-
-<a href="https://www.credly.com/users/evandro-duarte-de-oliveira" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/size/160x160/images/183ad257-5649-4920-a00f-af4ad9b0459f/image.png" alt="docker" width="100" height="100"/>
-</a> 
-  <n>
-  </n>
-  
-  
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=Slice"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Evandro+Duarte+de+Oliveira;I'm+30+years+old;I+from+Brasil,+MS;I'm+Enthusiastic+Cyber+Security+and+Networking;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OliveiED&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Evandro Duarte de Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiED&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OliveiED&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<div align="center">  
-<a href="https://www.instagram.com/evandro.dua.oliveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OliveiED&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{OliveiED}/count.svg" /></p> 
-<br></div>
-
-<div align="center">
-  <a href="https://OliveiED.github.io/OliveiED/">
-  <img  src="https://github.com/OliveiED/OliveiED/blob/main/grid-snake.svg"
-       alt="snake" /></a>
-
-
-</p>
-
-
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=OliveiED&show_icons=true)
