@@ -3,13 +3,13 @@
 
 ## Hello World ☕
 
-Network & Security Engineer with 4+ years of experience in ISP and NOC environments, specializing in MPLS backbone networks (L2/L3VPN), BGP, and network monitoring (Zabbix, Grafana).
+ISP Network & Security Engineer with 4+ years of experience in NOC and backbone environments, specializing in MPLS (L2/L3VPN), BGP, and network monitoring (Zabbix, Grafana).
 
-Proven experience designing and scaling network infrastructures, optimizing routing performance, and managing multi-vendor environments (Huawei, MikroTik, Cisco, Datacom, Fortinet).
+Experienced in designing and scaling ISP backbone infrastructures, optimizing routing convergence and traffic engineering, and operating multi-vendor networks (Huawei, MikroTik, Cisco, Datacom, Fortinet).
 
-Hands-on expertise in routing protocols (BGP, OSPF, IS-IS), traffic engineering, and high availability architectures. Strong background in network troubleshooting, incident management, and backbone operations.
+Strong expertise in BGP, OSPF, and IS-IS, with a focus on high availability, performance, and network stability. Proven ability to troubleshoot complex network issues and manage critical incidents in production environments.
 
-Additional experience includes firewall management (NAT, PAT), route optimization and summarization, as well as Layer 2 technologies (STP, BPDU Guard, PortFast, TCN).
+Additional experience includes firewall configuration (NAT, PAT), route summarization, and Layer 2 protocols (STP, BPDU Guard, PortFast, TCN).
 
 ## Expertise in:
 
