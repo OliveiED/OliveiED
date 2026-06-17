@@ -4,7 +4,7 @@
 
 ### Network & Security Engineer | ISP Backbone | MPLS | BGP | SD-WAN
 
-📍 Brazil | Open to relocation in Spain 🇪🇸 and EU opportunities  
+📍 Brazil  
 
 ---
 
